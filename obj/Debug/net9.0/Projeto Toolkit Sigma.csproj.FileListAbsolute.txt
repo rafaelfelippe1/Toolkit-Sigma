@@ -1,0 +1,30 @@
+C:\Users\Fael\source\repos\Projeto Toolkit Sigma\Projeto Toolkit Sigma\obj\Debug\net9.0\Projeto Toolkit Sigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fael\source\repos\Projeto Toolkit Sigma\Projeto Toolkit Sigma\obj\Debug\net9.0\Projeto Toolkit Sigma.AssemblyInfoInputs.cache
+C:\Users\Fael\source\repos\Projeto Toolkit Sigma\Projeto Toolkit Sigma\obj\Debug\net9.0\Projeto Toolkit Sigma.AssemblyInfo.cs
+C:\Users\Fael\source\repos\Projeto Toolkit Sigma\Projeto Toolkit Sigma\obj\Debug\net9.0\Projeto Toolkit Sigma.csproj.CoreCompileInputs.cache
+C:\Users\Fael\source\repos\Projeto Toolkit Sigma\Projeto Toolkit Sigma\bin\Debug\net9.0\Projeto Toolkit Sigma.exe
+C:\Users\Fael\source\repos\Projeto Toolkit Sigma\Projeto Toolkit Sigma\bin\Debug\net9.0\Projeto Toolkit Sigma.deps.json
+C:\Users\Fael\source\repos\Projeto Toolkit Sigma\Projeto Toolkit Sigma\bin\Debug\net9.0\Projeto Toolkit Sigma.runtimeconfig.json
+C:\Users\Fael\source\repos\Projeto Toolkit Sigma\Projeto Toolkit Sigma\bin\Debug\net9.0\Projeto Toolkit Sigma.dll
+C:\Users\Fael\source\repos\Projeto Toolkit Sigma\Projeto Toolkit Sigma\bin\Debug\net9.0\Projeto Toolkit Sigma.pdb
+C:\Users\Fael\source\repos\Projeto Toolkit Sigma\Projeto Toolkit Sigma\obj\Debug\net9.0\Projeto Toolkit Sigma.dll
+C:\Users\Fael\source\repos\Projeto Toolkit Sigma\Projeto Toolkit Sigma\obj\Debug\net9.0\refint\Projeto Toolkit Sigma.dll
+C:\Users\Fael\source\repos\Projeto Toolkit Sigma\Projeto Toolkit Sigma\obj\Debug\net9.0\Projeto Toolkit Sigma.pdb
+C:\Users\Fael\source\repos\Projeto Toolkit Sigma\Projeto Toolkit Sigma\obj\Debug\net9.0\Projeto Toolkit Sigma.genruntimeconfig.cache
+C:\Users\Fael\source\repos\Projeto Toolkit Sigma\Projeto Toolkit Sigma\obj\Debug\net9.0\ref\Projeto Toolkit Sigma.dll
+C:\Users\Fael\source\repos\Projeto Toolkit Sigma\Projeto Toolkit Sigma\obj\Debug\net9.0\Projeto Toolkit Sigma.sourcelink.json
+C:\Users\068172\Downloads\Projeto Toolkit Sigma\bin\Debug\net9.0\Projeto Toolkit Sigma.exe
+C:\Users\068172\Downloads\Projeto Toolkit Sigma\bin\Debug\net9.0\Projeto Toolkit Sigma.deps.json
+C:\Users\068172\Downloads\Projeto Toolkit Sigma\bin\Debug\net9.0\Projeto Toolkit Sigma.runtimeconfig.json
+C:\Users\068172\Downloads\Projeto Toolkit Sigma\bin\Debug\net9.0\Projeto Toolkit Sigma.dll
+C:\Users\068172\Downloads\Projeto Toolkit Sigma\bin\Debug\net9.0\Projeto Toolkit Sigma.pdb
+C:\Users\068172\Downloads\Projeto Toolkit Sigma\obj\Debug\net9.0\Projeto Toolkit Sigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\068172\Downloads\Projeto Toolkit Sigma\obj\Debug\net9.0\Projeto Toolkit Sigma.AssemblyInfoInputs.cache
+C:\Users\068172\Downloads\Projeto Toolkit Sigma\obj\Debug\net9.0\Projeto Toolkit Sigma.AssemblyInfo.cs
+C:\Users\068172\Downloads\Projeto Toolkit Sigma\obj\Debug\net9.0\Projeto Toolkit Sigma.csproj.CoreCompileInputs.cache
+C:\Users\068172\Downloads\Projeto Toolkit Sigma\obj\Debug\net9.0\Projeto Toolkit Sigma.sourcelink.json
+C:\Users\068172\Downloads\Projeto Toolkit Sigma\obj\Debug\net9.0\Projeto Toolkit Sigma.dll
+C:\Users\068172\Downloads\Projeto Toolkit Sigma\obj\Debug\net9.0\refint\Projeto Toolkit Sigma.dll
+C:\Users\068172\Downloads\Projeto Toolkit Sigma\obj\Debug\net9.0\Projeto Toolkit Sigma.pdb
+C:\Users\068172\Downloads\Projeto Toolkit Sigma\obj\Debug\net9.0\Projeto Toolkit Sigma.genruntimeconfig.cache
+C:\Users\068172\Downloads\Projeto Toolkit Sigma\obj\Debug\net9.0\ref\Projeto Toolkit Sigma.dll
